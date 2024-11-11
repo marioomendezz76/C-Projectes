@@ -1,0 +1,44 @@
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\bin\Debug\CRUD_Northwind.exe.config
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\bin\Debug\CRUD_Northwind.exe
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\bin\Debug\CRUD_Northwind.pdb
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.csproj.AssemblyReference.cache
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmTerritoris.resources
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FrmMain.resources
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.Properties.Resources.resources
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.csproj.GenerateResource.cache
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.csproj.CoreCompileInputs.cache
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.exe
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.pdb
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmAMBTerritoris.resources
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmRegions.resources
+C:\Users\adria\Educem\DAM 2\M6\UF4\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmAMBRegio.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\bin\Debug\CRUD_Northwind.exe.config
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\bin\Debug\CRUD_Northwind.exe
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\bin\Debug\CRUD_Northwind.pdb
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmAMBRegio.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmAMBTerritoris.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmRegions.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmTerritoris.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FrmMain.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.Properties.Resources.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.csproj.GenerateResource.cache
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.exe
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\ExNorthwind\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.pdb
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.exe
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.pdb
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\bin\Debug\CRUD_Northwind.exe.config
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\bin\Debug\CRUD_Northwind.exe
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\bin\Debug\CRUD_Northwind.pdb
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmAMBRegio.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmAMBTerritoris.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmRegions.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmTerritoris.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FrmMain.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.Properties.Resources.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.csproj.GenerateResource.cache
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmAMBProductes.resources
+C:\Users\mario\Documents\Educem\M6- Accés a dades\UF4\NORTHWIND\CRUD_Northwind\CRUD_Northwind\obj\Debug\CRUD_Northwind.FORMULARIS.FrmProductes.resources
